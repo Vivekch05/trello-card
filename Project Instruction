@@ -1,0 +1,12 @@
+First take the clone of this Repository.
+after that go in project and start npm i.
+before starting the project first start the json server follow this
+a)first go inside src folder
+b)Use command json-server --watch db.json   (It should be run on 3000 port).
+after that you can start the project.
+
+
+on the top op project on button will be there when you click on that then you can create the list of task
+when list of task will create then one more button will be there for every task when you click on it then one modal will be open you
+can type any thing and add it .
+it will be add in related task.
